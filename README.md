@@ -19,4 +19,5 @@ A multi-page website showcasing the beauty of Earth's ecosystems, including fore
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: For interactivity and dynamic content.
 
-## Link
+## Link for deployment
+https://resonant-creponne-2202c5.netlify.app/
