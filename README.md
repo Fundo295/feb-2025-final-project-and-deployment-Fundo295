@@ -19,4 +19,4 @@ A multi-page website showcasing the beauty of Earth's ecosystems, including fore
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: For interactivity and dynamic content.
 
-## Project Structure
+## Link
